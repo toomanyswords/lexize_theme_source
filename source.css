@@ -1,0 +1,188 @@
+/**
+ * @name Lexize Theme
+ * @version 1
+ * @description Common Customizable Theme
+ * @author Lexize
+ * 
+ * @website none
+ * @source none
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+
+
+.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+    background: var(--message-mentioned-color);
+    border-radius: var(--message-border-radius);
+    border-color: var(--message-mentioned-color-outline);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);
+    transition: var(--message-hover-transition);
+}
+
+.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover {
+    background: var(--message-mentioned-color-hover);
+    border-color: var(--message-mentioned-color-outline-hovered);
+    transition: var(--message-hover-transition);
+}
+.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica{
+    background: var(--message-mentioned-color);
+    border-radius: var(--message-border-radius);
+    border-color: var(--message-mentioned-color-outline);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);
+    transition: var(--message-hover-transition);
+}
+.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover{
+    background: var(--message-mentioned-color-hover);
+    border-color: var(--message-mentioned-color-outline-hovered);
+    transition: var(--message-hover-transition);
+}
+.mentioned-xhSam7:before{
+    background-color: transparent;
+}
+
+.message-2qnXI6.cozyMessage-3V1Y8y.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+    transition: var(--message-hover-transition);
+    border-color: var(--message-color-outline);
+    border-radius: var(--message-border-radius);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);
+}
+.message-2qnXI6.cozyMessage-3V1Y8y.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+    transition: var(--message-hover-transition);
+    border-color: var(--message-color-outline);
+    border-radius: var(--message-border-radius);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);   
+}
+
+.message-2qnXI6.cozyMessage-3V1Y8y.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+    background: var(--message-color);
+    transition: var(--message-hover-transition);
+    border-color: var(--message-color-outline);
+    border-radius: var(--message-border-radius);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);
+}
+.message-2qnXI6.cozyMessage-3V1Y8y.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica {
+    background: var(--message-color);
+    transition: var(--message-hover-transition);
+    border-color: var(--message-color-outline);
+    border-radius: var(--message-border-radius);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);   
+}
+
+.message-2qnXI6.cozyMessage-3V1Y8y.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover {
+    background: var(--message-color-hover);
+    transition: var(--message-hover-transition);
+    border-color: var(--message-color-outline-hovered);
+    border-radius: var(--message-border-radius);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);
+}
+.message-2qnXI6.cozyMessage-3V1Y8y.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover {
+    background: var(--message-color-hover);
+    transition: var(--message-hover-transition);
+    border-color: var(--message-color-outline-hovered);
+    border-radius: var(--message-border-radius);
+    border-width: var(--message-border-width);
+    border-style: var(--message-border-style);   
+}
+
+.bg-h5JY_x{
+    background: var(--app-background);
+}
+.markup-2BOw-j {
+    color: var(--app-objects-normal-color)
+}
+.circleIconButton-jET_ig{
+    color: var(--app-objects-normal-color);
+    transition: var(--message-hover-transition);
+}
+.circleIconButton-jET_ig:hover{
+    color: var(--app-main-color);
+    background: var(--app-objects-normal-color);
+    transition: var(--message-hover-transition);
+}
+.wrapper-1BJsBx:hover .childWrapper-anI2G{
+    background: var(--app-objects-hover-color) !important;
+    color: var(--background-primary);
+}
+
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9,.wrapper-1BJsBx:hover .childWrapper-anI2G9.acronym-2mOFsV{
+    background: var(--app-objects-hover-color) !important;
+    color: var(--background-primary);
+}
+
+.container-2lgZY8{
+    margin: var(--app-margin-size);
+    border-radius: var(--app-border-radius);
+    
+}
+.winButton-iRh8-Z{
+    background: var(--app-main-color);
+}
+.name-3_Dsmg{
+    color: var(--app-objects-normal-color)
+}
+
+.typeWindows-1za-n7.withFrame-haYltI.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3{
+    margin-top: 0;
+    top: -10px;
+    background: #000000;
+}
+.overflow-WK9Ogt{
+    color: var(--app-objects-normal-color)
+}
+.item-2hkk8m{
+    background: var(--app-objects-active-color);
+}
+.mention.wrapper-3WhCwL.mention.interactive{
+    transition: var(--message-hover-transition);
+    color: var(--app-objects-normal-color)
+}
+.mention.wrapper-3WhCwL.mention.interactive:hover{
+    transition: var(--message-hover-transition);
+    color: var(--app-objects-normal-color);
+    background: var(--app-objects-hover-color);
+}
+.container-1D34oG {
+    background-color: var(--app-second-color) !important;
+}
+.header-2o-2hj{
+    color: var(--app-objects-normal-color);
+}
+.colorHeaderPrimary-26Jzh-{
+    color: var(--app-objects-normal-color);
+}
+.colorHeaderSecondary-3Sp3Ft{
+    color: var(--app-objects-normal-color);
+}
+
+.ace_editor {
+    position: relative;
+    overflow: visible; }
+  
+  .contentColumnDefault-1VQkGM .ace_editor {
+    margin: 295px 0 0 0; }
+
+.contentColumnDefault-1VQkGM .ace_editor:before {
+    position: absolute;
+    content: "Для изменения параметров темы, перейдите в папку с темой\Aи скопируйте содержимое файла \"settingsDefault.txt\"";
+    display: block;
+    width: calc(100% - 32px);
+    top: -295px;
+    left: 0;
+    padding: 16px;
+    background: var(--app-main-color);
+    border-radius: var(--card-radius);
+    white-space: pre;
+    font-size: 16px;
+    color: #eee; }
+
+*{
+    font-family: 'Comfortaa', cursive;
+}
